@@ -2,32 +2,19 @@
   "cache_time": 7200,
   "api_site": {
  "ok": {
-      "api": "https://api.okzyw.net/api.php/provide/vod/?ac=list",
+      "api": "https://api.okzyw.net/api.php/provide/vod",
       "name": "OK资源"
     },  
- "guangsu": {
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/josn",
-      "name": "光速资源"
-    },  
      "kuaiche": {
-      "api": "https://caiji.kczyapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod",
       "name": "快车资源"
     },  
-      "taopian": {
-      "api": "https://taopianapi.com/cjapi/mc10/vod/json.html",
-      "name": "淘片资源"
-    },  
  "uku": {
-      "api": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
-      "name": "U酷",
-      "detail": "https://api.ukuapi88.com/api.php/provide/vod/?ac=detail"
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "name": "U酷"
     },
-   "pbpan": {
-      "api": "https://qddbrowser.com/api.php/provide/vod/at/josn",
-      "name": "瀑布盘资源"
-    }, 
    "ck": {
-      "api": "https://ckzy.me/api.php/provide/vod/?ac=list",
+      "api": "https://ckzy.me/api.php/provide/vod",
       "name": "CK资源"
     }, 
  "hongniu": {
@@ -38,17 +25,9 @@
       "api": "https://cj2.yayazy.net/api.php/provide/vod",
       "name": "鸭鸭资源"
     }, 
-  "yzzy": {
-      "api": "https://api.yzzy-api.com/inc/apijson.php",
-      "name": "优质资源"
-    },
  "suoni": {
       "api": "https://suoniapi.com/api.php/provide/vod",
       "name": "索尼资源"
-    }, 
- "jyzy": {
-      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
-      "name": "金鹰资源"
     }, 
 "lzizy": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",
